@@ -1,39 +1,39 @@
-# 📅 Booking Calendar UI with Pricing
+# Booking Calendar UI with Pricing
 
 A responsive booking calendar built using **React + TypeScript + Tailwind CSS**, inspired by the provided UI screenshot.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📆 Fully responsive **April 2024** calendar (hardcoded)
-- 🎨 Select/Unselect available dates with real-time visual feedback
-- 💰 Shows **total nights** and **total price** dynamically
-- 🚫 Disabled dates are non-interactive and greyed out
-- 💡 Clean, accessible, and responsive UI using Tailwind CSS
+- Fully responsive **April 2024** calendar (hardcoded)
+- Select/Unselect available dates with real-time visual feedback
+- Shows **total nights** and **total price** dynamically
+- Disabled dates are non-interactive and greyed out
+- Clean, accessible, and responsive UI using Tailwind CSS
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 Replicate a booking calendar interface with pricing and selection functionality.
 
-### ✅ Requirements
+### Requirements
 
 - Use **React (TypeScript)** and **Tailwind CSS**
 - Implement calendar for **April 2024 only**
-- Dates are categorized:
+- Dates are categorised:
   - **Selected**: Purple background
   - **Available**: White background (selectable)
   - **Disabled**: Grey background (non-interactive)
 - Clicking a date:
-  - Selects or unselects it
+  - Selects or deselects it
   - Recalculates **total nights** and **total cost**
 - Price per day is hardcoded (based on design)
 
 ---
 
-## 🧠 Functionality Logic
+## Functionality Logic
 
 | Action                      | Result                                      |
 | --------------------------- | ------------------------------------------- |
@@ -44,15 +44,15 @@ Replicate a booking calendar interface with pricing and selection functionality.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-- ⚛️ React (with TypeScript)
-- 💨 Tailwind CSS
-- 🧠 React Hooks (useState)
+- React (with TypeScript)
+- Tailwind CSS
+- React Hooks (useState)
 
 ---
 
-## 🧪 Setup & Run Locally
+## Setup & Run Locally
 
 ```bash
 # 1. Clone the repo
