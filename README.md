@@ -66,3 +66,6 @@ npm install
 npm start
 ```
 # booking-calendar
+
+![Booking_cal](https://github.com/user-attachments/assets/70b4f36d-8593-41fd-b216-81d5649bdb80)
+
